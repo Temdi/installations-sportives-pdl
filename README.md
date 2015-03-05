@@ -114,6 +114,7 @@ conn.close()
 
 L'objectif est d'insérer les données provenant des fichiers CSV.
 
+Gestionnaire SQLite gratuit : (https://addons.mozilla.org/fr/firefox/addon/sqlite-manager/)
 
 ### Exposition d'un service REST
 
